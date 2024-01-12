@@ -22,11 +22,12 @@ Entre los puntos que vamos a trabajar serán:
 7. Conclusiones
 
 **Hipótesis general y secundarias**
-- General: `La relación que existe de las variables de horas con las zonas de la ciudad en relacion de los accidentes de transito`
-- Secundarias:  
->`La incidencia que tiene la edad para provocar accidentes de transito`
->`Relacion entre el tipo de automovil  con el accidente`
->`Relacion entre el rango de horas con los accidentes`
+- **General:**  
+>La relación que existe de las variables de horas con las zonas de la ciudad en relacion de los accidentes de transito
+- **Secundarias:** 
+>La incidencia que tiene la edad para provocar accidentes de transito  
+>Relacion entre el tipo de automovil  con el accidente  
+>Relacion entre el rango de horas con los accidentes
 **Bibliografía**
 ----------------------------
 La base de datos adquiridas se tomó desde el [Portal Web del Ayuntamiento de Madrid](https://datos.gob.es/en/catalogo/l01280796-accidentes-de-trafico-de-la-ciudad-de-madrid1)
